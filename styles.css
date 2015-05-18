@@ -27,11 +27,36 @@
     
 }*/
 .vertical_align {
-  position: relative;
-  top: 30%;
+	position: relative;
+	top: 30%;
   /*transform: translateY(-50%);*/
+}
+
+.button_container{
+	width: 190px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	top: 68%;
+	/*display:block;*/
+	/*background-color: rgba(0, 0, 0,.5);*/
+}
+
+.buttons{
+	display:inline-table;
 }
 
 .centered_text {
     text-align:center
-}    
+}
+
+.centered {
+   alignment-adjust: central;
+}
+/*#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}*/
