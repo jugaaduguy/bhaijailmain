@@ -22,6 +22,7 @@
 	background-color: rgba(0, 0, 0,.5);
 	color: rgb(255,255,255);
 	margin-bottom: 20px;
+	font-size:40px;
 }
 /*div {
     
@@ -44,18 +45,18 @@
 	/*background-color: rgba(0, 0, 0,.5);*/
 }
 
-.buttons{
+/*.buttons{
 	display:inline-table;
 }
-
+*/
 .centered_text {
     text-align:center
 }
 
-.centered {
+/*.centered {
    alignment-adjust: central;
 }
-/*#share-buttons img {
+*//*#share-buttons img {
 width: 35px;
 padding: 5px;
 border: 0;
