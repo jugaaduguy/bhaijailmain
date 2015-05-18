@@ -36,8 +36,10 @@
 	width: 190px;
 	margin-right: auto;
 	margin-left: auto;
-	position: relative;
-	top: 68%;
+	position: absolute;
+	/*top: 90%;*/
+	bottom: 0; 
+	width: 100%;
 	/*display:block;*/
 	/*background-color: rgba(0, 0, 0,.5);*/
 }
