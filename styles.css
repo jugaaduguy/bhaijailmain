@@ -16,7 +16,7 @@
 }
 
 .text_format{
-	width: 190px;
+	width: 420px;
 	margin-right: auto;
 	margin-left: auto;
 	background-color: rgba(0, 0, 0,.5);
@@ -28,7 +28,7 @@
 }*/
 .vertical_align {
 	position: relative;
-	top: 30%;
+	top: 10%;
   /*transform: translateY(-50%);*/
 }
 
