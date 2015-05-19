@@ -1,6 +1,7 @@
 .image_container {
 	height:100vh;
 	background-image: url(images/no.gif);
+	/*position: relative;*/
 }
 
 
@@ -16,7 +17,7 @@
 }
 
 .text_format{
-	width: 420px;
+	width: 550px;
 	margin-right: auto;
 	margin-left: auto;
 	background-color: rgba(0, 0, 0,.5);
@@ -40,7 +41,8 @@
 	position: absolute;
 	/*top: 90%;*/
 	bottom: 0; 
-	width: 100%;
+	transform: translateX(450%);
+	/*width: 100%;*/
 	/*display:block;*/
 	/*background-color: rgba(0, 0, 0,.5);*/
 }
@@ -53,6 +55,7 @@
     text-align:center
 }
 
+/*.twitter-share-button { vertical-align:top }*/
 
 /*.centered {
    alignment-adjust: central;
